@@ -2,7 +2,7 @@
 This project is about finding the HR analysis of AtliQ Technologies using BI reports
 
 <p align="center">
-<img src="https://i.gifer.com/origin/00/00b39bade24cd62da12ad886bfe11d78.gif" />
+<img src="https://www.hrcloud.com/hubfs/robo_mark-1-1.gif" width="500" height="300" />
 </p>
 
 Live dashboard: https://www.novypro.com/project/atliq-hr-analysis
