@@ -1,4 +1,8 @@
 # BI-HR-Analytics
-This project is about finding the HR analysis of Atliq Technologies using BI reports
+This project is about finding the HR analysis of AtliQ Technologies using BI reports
 
-Link to Live dashboard: https://www.novypro.com/project/atliq-hr-analysis
+Live dashboard: https://www.novypro.com/project/atliq-hr-analysis
+
+References:
+
+* https://www.youtube.com/watch?v=ru1qeDO_qrc&list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM&index=1
